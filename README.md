@@ -1,4 +1,4 @@
-#**Materia: Computacion Paralela y Distribuida
+#Materia: Computacion Paralela y Distribuida
 #👨‍🏫 **Profesor:** John Jairo Corredor Franco
 #👨‍💻 **Estudiante:** Oscar Julian Reyes Torres
 
