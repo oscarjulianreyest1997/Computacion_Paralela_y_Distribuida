@@ -1,0 +1,42 @@
+
+Total time: 4.641739 seg 
+
+Total time: 5.172621 seg 
+
+Total time: 4.916043 seg 
+
+Total time: 5.248983 seg 
+
+Total time: 5.732323 seg 
+
+Total time: 4.403030 seg 
+
+Total time: 5.513265 seg 
+
+Total time: 5.100324 seg 
+
+Total time: 4.948885 seg 
+
+Total time: 3.936716 seg 
+
+Total time: 4.124614 seg 
+
+Total time: 4.372604 seg 
+
+Total time: 4.794546 seg 
+
+Total time: 3.947375 seg 
+
+Total time: 3.951535 seg 
+
+Total time: 3.958772 seg 
+
+Total time: 3.957647 seg 
+
+Total time: 3.919000 seg 
+
+Total time: 3.930007 seg 
+
+Total time: 5.262516 seg 
+
+Total time: 5.017694 seg 

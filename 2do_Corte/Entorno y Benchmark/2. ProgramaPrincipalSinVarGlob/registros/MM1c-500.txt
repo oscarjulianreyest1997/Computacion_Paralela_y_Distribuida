@@ -1,0 +1,62 @@
+
+Total time: 0.348838 seg 
+
+Total time: 0.351260 seg 
+
+Total time: 0.344564 seg 
+
+Total time: 0.346025 seg 
+
+Total time: 0.345416 seg 
+
+Total time: 0.347175 seg 
+
+Total time: 0.345554 seg 
+
+Total time: 0.343509 seg 
+
+Total time: 0.343406 seg 
+
+Total time: 0.347470 seg 
+
+Total time: 0.345418 seg 
+
+Total time: 0.345028 seg 
+
+Total time: 0.345773 seg 
+
+Total time: 0.343769 seg 
+
+Total time: 0.345505 seg 
+
+Total time: 0.345971 seg 
+
+Total time: 0.343929 seg 
+
+Total time: 0.345647 seg 
+
+Total time: 0.345550 seg 
+
+Total time: 0.347171 seg 
+
+Total time: 0.348807 seg 
+
+Total time: 0.344167 seg 
+
+Total time: 0.346448 seg 
+
+Total time: 0.345872 seg 
+
+Total time: 0.344658 seg 
+
+Total time: 0.344289 seg 
+
+Total time: 0.346968 seg 
+
+Total time: 0.345442 seg 
+
+Total time: 0.343228 seg 
+
+Total time: 0.346184 seg 
+
+Total time: 0.344699 seg 
