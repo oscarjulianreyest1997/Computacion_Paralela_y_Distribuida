@@ -1,5 +1,5 @@
 /*Fecha: 08/02/2022
-* Autor: Andres C. Lopez R.
+* Autor: Oscar Julian Reyes Torres.
 * Subject: Parallel and Distributed Computing.
 * Topic: Construction of the first Benchmark
 * Description: Application that allows evaluating the performance
