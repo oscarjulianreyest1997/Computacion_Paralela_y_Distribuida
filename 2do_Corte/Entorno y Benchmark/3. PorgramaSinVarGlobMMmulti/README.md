@@ -6,9 +6,13 @@
 
 ### Paso 1: Descargar la totalidad de archivos en este repositorio
 ```ruby
-aaaa
+https://github.com/oscarjulianreyest1997/Computacion_Paralela_y_Distribuida/tree/main/2do_Corte/Entorno%20y%20Benchmark/3.%20PorgramaSinVarGlobMMmulti
 ```
 
+### Paso 2: Desde la terminar de cualquir distribucion de linux generar los make 
+```ruby
+user@user:~$ make 
+```
 
 
 
