@@ -1,5 +1,5 @@
-/*Fecha: 26/03/2022
-* Autor: Luis Felipe Velasquez Puentes
+/*Fecha: 28/03/2022
+* Autor: Oscar Julian Reyes Torres
 * Subject: Parallel and Distributed Computing.
 * Topic: Construction of the first Benchmark
 * Description: Application that allows evaluating the performance
