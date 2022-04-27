@@ -21,4 +21,4 @@ user@user:~$ make clean
 user@user:~$sudo apt install make
 user@user:~$sudo apt install gcc
 ```
-## :warning: **No olvide que se debe ejecutar el archivo únicamente el launcher.pl**
+## :warning: **No olvide que se debe ejecutar únicamente el fichero el "launcher.pl"**
