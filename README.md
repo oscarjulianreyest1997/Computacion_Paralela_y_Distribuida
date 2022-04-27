@@ -1,5 +1,5 @@
 # 🚀 Computación Paralela y Distribuida 💻
-## 👨‍🏫**Profesor:** John Jairo Corredor Franco pH.D
+## 👨‍🏫**Profesor:** John Jairo Corredor Franco Ph.D
 ## 👨‍💻**Estudiante:** Óscar Julián Reyes Torres
 ###### ***Ingenieria de Sistemas y Telecomunicaciones - Universidad Sergio Argoleda*** 
 ###### ***Periodo Academico 2022-1***
