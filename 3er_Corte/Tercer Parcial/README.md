@@ -5,6 +5,7 @@
 <b> Ingenieria de Sistemas y Telecomunicaciones </b>
 <br>
 <i><b>Autor:</b></i> Oscar Julian Reyes Torres.
+<br>
 <i><b>Docente:</b></i> John Corredor, PhD.
 <br>
 <i><b>Asignatura:</b></i> Computación Paralela y Distribuida
