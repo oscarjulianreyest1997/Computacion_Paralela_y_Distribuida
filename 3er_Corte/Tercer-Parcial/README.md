@@ -1,21 +1,24 @@
-# Parcial3HeatEquation
+# Computación Paralela y Distribuida
+## 👨‍🏫**Profesor:** John Jairo Corredor Franco Ph.D
+## 👨‍💻**Estudiante:** Oscar Julian Reyes Torres
+###### ***Ingenieria de Sistemas y Telecomunicaciones - Universidad Sergio Argoleda*** 
+###### ***Periodo Academico 2022-1***
 
-<div> 
-<img src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1455514364/pim02bzqvgz0hibsra41.png" align="right"><br><br><FONT FACE="times new roman" SIZE=5>
-<b> Ciencias de la Computación e Inteligencia Artificial </b>
-<br>
-<i><b>Autores:</b></i>
-<li> Jessica Valentina Parrado Alfonso </li>
-<li> Lady Geraldine Salazar Sanchez </li>
-<li> Luis Alejandro Vejarano Gutierrez </li>
-<li> Michael Steven Pinilla Mateus </li>
-<i><b>Docente:</b></i> John Corredor, PhD.
-<br>
-<i><b>Asignatura:</b></i> Computación Paralela y Distribuida
-<br>
-<i><b>TEMA:</i> Tercer Parcial Comparativa Python y Cython en la Ecuación del Calor</b>
-<br>
-05/2021
-<br>
-</FONT>
-</div>
+## En este repositorio se encuentran los Benchmark programados en c utilizados para el parcial del segundo corte de la materia de Computación Paralela y Distribuida.
+
+### **Descargar la totalidad de archivos en este repositorio** :floppy_disk: 
+```ruby
+https://github.com/oscarjulianreyest1997/Computacion_Paralela_y_Distribuida/tree/main/2do_Corte/Parcial/BenchMark_Parcial
+```
+
+## **Comandos utiles:**
+### - Si se desea eliminar los objetos creados basta con usar el comando
+```ruby
+user@user:~$ make clean
+```
+### - Comandos para instalar el compilador de c, c++
+```ruby
+user@user:~$sudo apt install make
+user@user:~$sudo apt install gcc
+```
+## :warning: **No olvide que se debe ejecutar únicamente el fichero el "launcher.pl"**
